@@ -43,10 +43,6 @@ Toutes les données utilisées sont publiques.
 - Les horaires d'ouverture et la capacité des équipements ne sont pas connus.
 - Les résultats portent sur un seul jour de référence, le mardi 17 novembre 2026, en période scolaire.
 
-## Licence
-
-Les résultats, la carte et l'atlas sont diffusés sous [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) (Etalab). Les données INSEE et IGN utilisées sont publiées sous la même licence. Chaque flux GTFS a sa propre licence, à consulter auprès du réseau concerné.
-
 ## Réalisation
 
 SMD, octobre 2026.
