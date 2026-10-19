@@ -1,0 +1,49 @@
+LICENCES DU DÉPÔT
+Étude « Sans voiture, que reste-t-il ? », pilote Pas-de-Calais
+Réalisation : SMD, octobre 2026
+
+Ce dépôt est diffusé sous deux licences, selon la nature des fichiers.
+Les données sources conservent la licence de leur producteur (voir la
+section « Sources et licences » du fichier README).
+
+
+1. LICENCE OUVERTE 2.0 (ETALAB)
+
+S'applique à :
+- le code source et les scripts de calcul ;
+- la note technique et la documentation ;
+- les résultats agrégés : planches de l'atlas, tableaux de résultats,
+  fiches intercommunales, cartes exportées en image ou en PDF.
+
+Réutilisation libre, y compris commerciale, à condition de citer la source :
+« Sans voiture, que reste-t-il ? (SMD, 2026), Licence Ouverte 2.0 ».
+
+Texte de la licence :
+https://www.etalab.gouv.fr/licence-ouverte-open-licence/
+
+
+2. OPEN DATABASE LICENSE (ODbL) 1.0
+
+S'applique aux bases de données dérivées des horaires, arrêts et tracés des
+réseaux de transport :
+- le GeoPackage et les fichiers de connexions calculés à partir des GTFS ;
+- le fichier index.html de la carte interactive, qui embarque ces données.
+
+Ces fichiers contiennent des données issues des réseaux Tadao, Sitac,
+Évéole et DK'Bus, publiées sous ODbL. Cette licence impose le partage à
+l'identique des bases dérivées : l'ensemble de ces fichiers est donc
+diffusé sous ODbL, y compris la part issue des réseaux publiés sous une
+autre licence.
+
+Conditions :
+- citer la source des données (voir « Attribution » dans le README) ;
+- republier sous ODbL toute base de données dérivée de ces fichiers ;
+- ne pas imposer de restriction technique qui empêcherait l'accès aux
+  données dérivées.
+
+Les œuvres produites à partir de ces bases (cartes, images, graphiques)
+relèvent du point 1, avec mention de la source et de la licence des
+données.
+
+Texte de la licence :
+https://opendatacommons.org/licenses/odbl/1-0/
